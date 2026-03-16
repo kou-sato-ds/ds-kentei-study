@@ -1,0 +1,5 @@
+transaction_id,customer_id,product_category,amount,timestamp
+T0001,C101,Electronics,55000,2026-03-16 10:00:00
+T0002,C102,Books,3200,2026-03-16 10:05:00
+T0003,C101,Groceries,1500,2026-03-16 10:10:00
+T0004,C104,Electronics,120000,2026-03-16 10:15:00

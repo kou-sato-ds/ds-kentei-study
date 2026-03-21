@@ -80,7 +80,9 @@ $$
 
 $$
 Z = \pm 3
-$$との関係を可視化。統計的正常範囲を定義しました。
+$$
+
+との関係を可視化。統計的正常範囲を定義しました。
 
 ![Z-score Plot](./images/zscore_plot.png)
 ![Z-score Scatter](./images/zscore_scatter.png)

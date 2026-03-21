@@ -1,3 +1,5 @@
+本セクションで実装された統計エンジンは、前段のS3データレイクから供給されるRawデータを受け取り、異常値を排除したクレンジング済みデータを後続のMLモデル学習プロセス（Sprint 3予定）へ提供する、パイプラインの「心臓部」として機能します。
+
 # 📊 02_Statistics_L2: Statistics for Data Science
 
 ### 🏗️ Statistical Data Pipeline Architecture

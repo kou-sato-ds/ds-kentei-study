@@ -1,5 +1,13 @@
 # 📊 02_Statistics_L2: Statistics for Data Science
 
+### 🏗️ Statistical Data Pipeline Architecture
+![Pipeline Architecture](02_Statistics_L2\images\architecture_pipeline.drawio.png)
+
+> **Design Note**: 
+> 本パイプラインは、AWS環境におけるデータ品質の自動担保を目的に設計されています。
+> Rawデータに対して $1.5 \times IQR$ 法によるクレンジングを行い、
+> その後 $t$ 分布を用いた推定を行うことで、信頼性の高いデータのみを後続プロセスへ提供します。
+
 このセクションでは、統計検定2級およびデータサイエンス実務に必要な統計学的解析手法の学習と実装を記録します。
 
 ## 🎯 学習テーマ
